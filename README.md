@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![Hello World, I'm Junior!]
 Background GIF by [Aliciel](https://www.pinterest.com/pin/8585055530951036/) on [Pinterest](https://www.pinterest.com/).
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JayMK_03) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmankilele@gmail.com?subject=Hello%20Mtemwa,%20From%20Github)
 
 </div>
 
@@ -39,7 +39,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/8585055530951036/) on 
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, React, Express,  R, Python, MongoDB, Linux, Django](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,react,express,r,py,mongodb,linux,django)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
@@ -52,8 +52,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/8585055530951036/) on 
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mtemwa&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtemwa&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
